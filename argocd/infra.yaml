@@ -10,7 +10,7 @@ metadata:
 spec:
   project: production
   source:
-    repoURL: https://github.com/vfarcic/devops-toolkit-crossplane.git
+    repoURL: https://github.com/matt-knights-thg/devops-toolkit-crossplane.git
     targetRevision: HEAD
     path: infra
   destination:
